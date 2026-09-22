@@ -1,4 +1,4 @@
-# <img src="/sanaseppa.svg" width="300" height="70" alt="">
+# <img src="/sanaseppa.svg" width="600" height="140" alt="">
 
 Sanaseppä on suomalainen hupsunhauska sanapeli, jossa etsit viisi-, kuusi- tai seitsemänkirjaimista sanaa. Voit pelata yksiksesi, ratkoa päivän sanan tai haastaa kamusi samaan huoneeseen.
 
